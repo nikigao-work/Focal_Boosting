@@ -49,7 +49,7 @@ $$
 \frac{\partial f(r)}{\partial r} = \gamma |r|^{\gamma - 1} \cdot \text{sign}(r),
 $$
 
-где $$( \text{sign}(r) \)$$ — знак остатка:
+где $$\text{sign}(r) \$$ — знак остатка:
 
 $$
 \text{sign}(r) = \begin{cases} 
